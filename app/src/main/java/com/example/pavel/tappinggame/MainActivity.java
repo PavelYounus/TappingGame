@@ -12,7 +12,7 @@ import android.view.View;
 
 import com.example.pavel.tappinggame.databinding.ActivityMainBinding;
 
-
+  
 public class MainActivity extends AppCompatActivity {
 
 
